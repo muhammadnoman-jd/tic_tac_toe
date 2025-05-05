@@ -7,7 +7,8 @@ If you're using GitHub:
 ```bash
 git clone https://github.com/muhammadnoman-jd/tic_tac_toe.git
 cd tic_tac_toe
-<br>
+```
+
 Or download the ZIP and extract it, then navigate into the folder.
 
 2. Run the Game

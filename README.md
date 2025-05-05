@@ -1,19 +1,13 @@
-# Tic-Tac-Toe (Command Line Game)
+# ▶️ How to Run This Project
 
-This is a command-line based Tic-Tac-Toe game built using Python. The project demonstrates modular programming, object-oriented design, and logging using `pathlib`.
-
----
-
-
-## ▶️ How to Run This Project
-
-### 1. Clone or Download the Repository
+## 1. Clone or Download the Repository
 
 If you're using GitHub:
 
 ```bash
 git clone https://github.com/muhammadnoman-jd/tic_tac_toe.git
 cd tic_tac_toe
+<br>
 Or download the ZIP and extract it, then navigate into the folder.
 
 2. Run the Game
